@@ -4,7 +4,7 @@ import numpy as np
 
 
 OMEGA = 100.0
-BETA_FACTOR = 100.0
+BETA_FACTOR = 1
 CHUNK_SIZE = 4096
 
 
