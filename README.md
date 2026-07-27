@@ -2,10 +2,14 @@
 
 This repository provides exact neural-network constructions for the Motzkin chain, including RNN, FNN, CNN, and Transformer representations, as described in the paper *Exact Neural-Network Representations of the Motzkin States*. It also contains small-system verification code that compares these constructions with the exact Motzkin states. If you use this code or the constructions, please cite the paper:
 ```bibtex
-@misc{zha2026ExactMotzkinNQS,
-  title     = {Exact Neural-Network Representations of the Motzkin States},
-  author    = {Runde Zha, Yuntian Gu, Chaohui Fan, Jia-Lin Chen, Hai-Jun Liao, and Tao Xiang},
-  year      = {2026}
+@misc{zha2026exactneuralnetworkrepresentationsmotzkin,
+      title={Exact Neural-Network Representations of the Motzkin States}, 
+      author={Runde Zha and Yuntian Gu and Chaohui Fan and Jia-lin Chen and Hai-Jun Liao and Tao Xiang},
+      year={2026},
+      eprint={2607.22522},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.str-el},
+      url={https://arxiv.org/abs/2607.22522}, 
 }
 ```
 
