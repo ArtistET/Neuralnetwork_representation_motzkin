@@ -38,3 +38,12 @@ python run.py --sizes 4 6 --colors 1 2 3
 ```
 The command checks all four architectures for colorless (`s=1`) and colorful (`s=2,3`) Motzkin states at `N=4,6`.
 
+## N-queens NQS representation
+Except for Motzkin chains, we showed a simple example for N-queens of FNN architecture in fnn_n_queens_verify.py, one can run
+
+```bash
+python fnn_n_queens_verify.py --n 1 2 3 4
+```
+
+The command checks the output of the FNN architecture at `N=1,2,3,4`.
+
